@@ -43,7 +43,7 @@ BeBot/
 └── requirements.txt
 
 ---
-## 📂 Uso
+## ▶️ Uso
 
 | Acción | Comando |
 |---|---|
